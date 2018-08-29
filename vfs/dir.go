@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fs/list"
-	"github.com/ncw/rclone/fs/walk"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/list"
+	"github.com/adbegon/rclone/fs/walk"
 	"github.com/pkg/errors"
 )
 

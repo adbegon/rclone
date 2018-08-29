@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fs/rc"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/rc"
 )
 
 var (

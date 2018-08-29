@@ -4,8 +4,8 @@ package jottacloud_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/backend/jottacloud"
-	"github.com/ncw/rclone/fstest/fstests"
+	"github.com/adbegon/rclone/backend/jottacloud"
+	"github.com/adbegon/rclone/fstest/fstests"
 )
 
 // TestIntegration runs integration tests against the remote
