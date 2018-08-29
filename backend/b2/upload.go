@@ -14,11 +14,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/artpar/rclone/backend/b2/api"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/lib/rest"
+	"github.com/adbegon/rclone/backend/b2/api"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/lib/rest"
 	"github.com/pkg/errors"
 )
 

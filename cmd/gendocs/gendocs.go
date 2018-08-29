@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/artpar/rclone/cmd"
+	"github.com/adbegon/rclone/cmd"
 	"github.com/spf13/cobra"
 	"github.com/spf13/cobra/doc"
 )

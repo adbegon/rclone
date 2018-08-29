@@ -159,12 +159,12 @@ Install from source
 Make sure you have at least Go 1.6 installed. Make sure your GOPATH is
 set, then:
 
-    go get -u -v github.com/artpar/rclone
+    go get -u -v github.com/adbegon/rclone
 
 and this will build the binary in $GOPATH/bin. If you have built rclone
 before then you will want to update its dependencies first with this
 
-    go get -u -v github.com/artpar/rclone/...
+    go get -u -v github.com/adbegon/rclone/...
 
 
 Installation with Ansible
@@ -4607,14 +4607,14 @@ You can also use the -text flag to produce a textual summary
     $ go tool pprof -text http://localhost:5572/debug/pprof/heap
     Showing nodes accounting for 1537.03kB, 100% of 1537.03kB total
           flat  flat%   sum%        cum   cum%
-     1024.03kB 66.62% 66.62%  1024.03kB 66.62%  github.com/artpar/rclone/vendor/golang.org/x/net/http2/hpack.addDecoderNode
+     1024.03kB 66.62% 66.62%  1024.03kB 66.62%  github.com/adbegon/rclone/vendor/golang.org/x/net/http2/hpack.addDecoderNode
          513kB 33.38%   100%      513kB 33.38%  net/http.newBufioWriterSize
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/cmd/all.init
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/cmd/serve.init
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/cmd/serve/restic.init
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/vendor/golang.org/x/net/http2.init
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/vendor/golang.org/x/net/http2/hpack.init
-             0     0%   100%  1024.03kB 66.62%  github.com/artpar/rclone/vendor/golang.org/x/net/http2/hpack.init.0
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/cmd/all.init
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/cmd/serve.init
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/cmd/serve/restic.init
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/vendor/golang.org/x/net/http2.init
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/vendor/golang.org/x/net/http2/hpack.init
+             0     0%   100%  1024.03kB 66.62%  github.com/adbegon/rclone/vendor/golang.org/x/net/http2/hpack.init.0
              0     0%   100%  1024.03kB 66.62%  main.init
              0     0%   100%      513kB 33.38%  net/http.(*conn).readRequest
              0     0%   100%      513kB 33.38%  net/http.(*conn).serve
@@ -6786,9 +6786,9 @@ on them.
 Any reports or feedback on how cache behaves on this OS is greatly
 appreciated.
 
--   https://github.com/artpar/rclone/issues/1935
--   https://github.com/artpar/rclone/issues/1907
--   https://github.com/artpar/rclone/issues/1834
+-   https://github.com/adbegon/rclone/issues/1935
+-   https://github.com/adbegon/rclone/issues/1907
+-   https://github.com/adbegon/rclone/issues/1834
 
 Risk of throttling
 
@@ -6808,8 +6808,8 @@ the file in the cache at the same time if configured to do so.
 
 Future enhancements:
 
--   https://github.com/artpar/rclone/issues/1937
--   https://github.com/artpar/rclone/issues/1936
+-   https://github.com/adbegon/rclone/issues/1937
+-   https://github.com/adbegon/rclone/issues/1936
 
 cache and crypt
 
@@ -12293,7 +12293,7 @@ Gitub project
 
 The project website is at:
 
--   https://github.com/artpar/rclone
+-   https://github.com/adbegon/rclone
 
 There you can file bug reports, ask for help or contribute pull
 requests.

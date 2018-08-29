@@ -1,8 +1,8 @@
 package deletefile
 
 import (
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs/operations"
 
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"

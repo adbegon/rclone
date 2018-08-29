@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/artpar/rclone/cmd"
+	"github.com/adbegon/rclone/cmd"
 	"github.com/spf13/cobra"
 )
 

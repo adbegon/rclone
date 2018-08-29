@@ -12,9 +12,9 @@ import (
 
 	"fmt"
 
-	"github.com/artpar/rclone/backend/cache"
-	_ "github.com/artpar/rclone/backend/drive"
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/backend/cache"
+	_ "github.com/adbegon/rclone/backend/drive"
+	"github.com/adbegon/rclone/fs"
 	"github.com/stretchr/testify/require"
 )
 

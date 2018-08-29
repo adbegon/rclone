@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/fstest"
-	"github.com/artpar/rclone/lib/readers"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/fstest"
+	"github.com/adbegon/rclone/lib/readers"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

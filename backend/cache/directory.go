@@ -7,7 +7,7 @@ import (
 
 	"path"
 
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/fs"
 )
 
 // Directory is a generic dir that stores basic information about it

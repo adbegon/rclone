@@ -37,10 +37,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/fserrors"
-	"github.com/artpar/rclone/fs/object"
-	"github.com/artpar/rclone/fs/walk"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/fserrors"
+	"github.com/adbegon/rclone/fs/object"
+	"github.com/adbegon/rclone/fs/walk"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

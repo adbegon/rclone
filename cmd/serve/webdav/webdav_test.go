@@ -12,9 +12,9 @@ import (
 	"os/exec"
 	"testing"
 
-	_ "github.com/artpar/rclone/backend/local"
-	"github.com/artpar/rclone/cmd/serve/httplib"
-	"github.com/artpar/rclone/fstest"
+	_ "github.com/adbegon/rclone/backend/local"
+	"github.com/adbegon/rclone/cmd/serve/httplib"
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 )
 

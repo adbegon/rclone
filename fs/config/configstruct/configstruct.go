@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/artpar/rclone/fs/config/configmap"
+	"github.com/adbegon/rclone/fs/config/configmap"
 	"github.com/pkg/errors"
 )
 

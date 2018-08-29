@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config"
-	"github.com/artpar/rclone/fs/config/flags"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config"
+	"github.com/adbegon/rclone/fs/config/flags"
 	"github.com/spf13/pflag"
 )
 

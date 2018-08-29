@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/artpar/rclone/fstest"
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

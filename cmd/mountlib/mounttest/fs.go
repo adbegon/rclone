@@ -17,11 +17,11 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/artpar/rclone/backend/all" // import all the backends
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/walk"
-	"github.com/artpar/rclone/fstest"
-	"github.com/artpar/rclone/vfs"
+	_ "github.com/adbegon/rclone/backend/all" // import all the backends
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/walk"
+	"github.com/adbegon/rclone/fstest"
+	"github.com/adbegon/rclone/vfs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -1,9 +1,9 @@
 package copy
 
 import (
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs/operations"
-	"github.com/artpar/rclone/fs/sync"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs/sync"
 	"github.com/spf13/cobra"
 )
 

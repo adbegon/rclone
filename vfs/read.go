@@ -5,10 +5,10 @@ import (
 	"os"
 	"sync"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/fs/chunkedreader"
-	"github.com/artpar/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/fs/chunkedreader"
+	"github.com/adbegon/rclone/fs/hash"
 	"github.com/pkg/errors"
 )
 

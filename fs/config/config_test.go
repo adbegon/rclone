@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config/obscure"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config/obscure"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

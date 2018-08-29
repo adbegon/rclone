@@ -3,7 +3,7 @@ package accounting
 import (
 	"sync"
 
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/fs"
 )
 
 // inProgress holds a synchronized map of in progress transfers

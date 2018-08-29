@@ -3,10 +3,10 @@ package operations_test
 import (
 	"testing"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/filter"
-	"github.com/artpar/rclone/fs/list"
-	"github.com/artpar/rclone/fstest"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/filter"
+	"github.com/adbegon/rclone/fs/list"
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

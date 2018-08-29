@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/VividCortex/ewma"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/asyncreader"
-	"github.com/artpar/rclone/fs/fserrors"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/asyncreader"
+	"github.com/adbegon/rclone/fs/fserrors"
 	"github.com/pkg/errors"
 )
 

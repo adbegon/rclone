@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/a8m/tree"
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/fs/walk"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/fs/walk"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

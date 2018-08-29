@@ -7,9 +7,9 @@ package amazonclouddrive_test
 import (
 	"testing"
 
-	"github.com/artpar/rclone/backend/amazonclouddrive"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fstest/fstests"
+	"github.com/adbegon/rclone/backend/amazonclouddrive"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fstest/fstests"
 )
 
 // TestIntegration runs integration tests against the remote

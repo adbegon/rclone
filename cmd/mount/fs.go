@@ -9,10 +9,10 @@ import (
 
 	"bazil.org/fuse"
 	fusefs "bazil.org/fuse/fs"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/vfs"
-	"github.com/artpar/rclone/vfs/vfsflags"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/vfs"
+	"github.com/adbegon/rclone/vfs/vfsflags"
 	"github.com/pkg/errors"
 	"golang.org/x/net/context" // switch to "context" when we stop supporting go1.8
 )

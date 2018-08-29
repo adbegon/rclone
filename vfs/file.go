@@ -7,8 +7,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/log"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/log"
 	"github.com/pkg/errors"
 )
 

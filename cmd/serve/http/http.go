@@ -9,14 +9,14 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/cmd/serve/httplib"
-	"github.com/artpar/rclone/cmd/serve/httplib/httpflags"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/lib/rest"
-	"github.com/artpar/rclone/vfs"
-	"github.com/artpar/rclone/vfs/vfsflags"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/cmd/serve/httplib"
+	"github.com/adbegon/rclone/cmd/serve/httplib/httpflags"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/lib/rest"
+	"github.com/adbegon/rclone/vfs"
+	"github.com/adbegon/rclone/vfs/vfsflags"
 	"github.com/spf13/cobra"
 )
 

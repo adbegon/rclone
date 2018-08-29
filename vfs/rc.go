@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/rc"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/rc"
 	"github.com/pkg/errors"
 )
 

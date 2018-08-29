@@ -5,8 +5,8 @@ import (
 	"path"
 	"sync"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/walk"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/walk"
 	"github.com/pkg/errors"
 )
 

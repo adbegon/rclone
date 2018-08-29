@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/operations"
 )
 
 // WriteFileHandle is an open for write handle on a File

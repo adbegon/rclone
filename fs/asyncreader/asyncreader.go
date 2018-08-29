@@ -6,7 +6,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/artpar/rclone/lib/readers"
+	"github.com/adbegon/rclone/lib/readers"
 	"github.com/pkg/errors"
 )
 

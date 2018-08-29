@@ -4,11 +4,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/fs/operations"
-	"github.com/artpar/rclone/fs/walk"
-	"github.com/artpar/rclone/fstest"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs/walk"
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

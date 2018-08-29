@@ -9,10 +9,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/fs/walk"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs/walk"
 	"github.com/pkg/errors"
 	"github.com/spf13/pflag"
 )

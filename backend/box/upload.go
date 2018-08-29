@@ -14,10 +14,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/artpar/rclone/backend/box/api"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/lib/rest"
+	"github.com/adbegon/rclone/backend/box/api"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/lib/rest"
 	"github.com/pkg/errors"
 )
 

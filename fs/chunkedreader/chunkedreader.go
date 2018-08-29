@@ -5,7 +5,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/fs"
 )
 
 // io related errors returned by ChunkedReader

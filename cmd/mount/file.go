@@ -8,9 +8,9 @@ import (
 
 	"bazil.org/fuse"
 	fusefs "bazil.org/fuse/fs"
-	"github.com/artpar/rclone/cmd/mountlib"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/vfs"
+	"github.com/adbegon/rclone/cmd/mountlib"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/vfs"
 	"golang.org/x/net/context" // switch to "context" when we stop supporting go1.8
 )
 

@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"time"
 
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/object"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/object"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

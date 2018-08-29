@@ -15,8 +15,8 @@ import (
 
 	"strings"
 
-	"github.com/artpar/rclone/cmd/serve/httplib"
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/cmd/serve/httplib"
+	"github.com/adbegon/rclone/fs"
 	"github.com/pkg/errors"
 )
 

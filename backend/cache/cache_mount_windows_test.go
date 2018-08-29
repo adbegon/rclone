@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/billziss-gh/cgofuse/fuse"
-	"github.com/artpar/rclone/cmd/cmount"
-	"github.com/artpar/rclone/cmd/mountlib"
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/cmd/cmount"
+	"github.com/adbegon/rclone/cmd/mountlib"
+	"github.com/adbegon/rclone/fs"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

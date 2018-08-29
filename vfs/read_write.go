@@ -8,10 +8,10 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/fs/operations"
 	"github.com/pkg/errors"
 )
 

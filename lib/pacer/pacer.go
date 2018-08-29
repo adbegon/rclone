@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/fserrors"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/fserrors"
 )
 
 // Pacer state

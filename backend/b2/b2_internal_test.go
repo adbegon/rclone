@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/fstest"
+	"github.com/adbegon/rclone/fstest"
 )
 
 // Test b2 string encoding

@@ -13,9 +13,9 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"github.com/artpar/rclone/backend/crypt/pkcs7"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
+	"github.com/adbegon/rclone/backend/crypt/pkcs7"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
 	"github.com/pkg/errors"
 
 	"golang.org/x/crypto/nacl/secretbox"

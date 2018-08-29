@@ -15,8 +15,8 @@ import (
 	"time"
 
 	"github.com/djherbis/times"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config"
 	"github.com/pkg/errors"
 )
 

@@ -164,7 +164,7 @@ If your names have spaces in you need to put them in `"`, eg
     rclone copy "E:\folder name\folder name\folder name" remote:backup
 
 If you are using the root directory on its own then don't quote it
-(see [#464](https://github.com/artpar/rclone/issues/464) for why), eg
+(see [#464](https://github.com/adbegon/rclone/issues/464) for why), eg
 
     rclone copy E:\ remote:backup
 
@@ -457,7 +457,7 @@ after transfer.
 
 This can be useful for transferring files to and from OneDrive which
 occasionally misreports the size of image files (see
-[#399](https://github.com/artpar/rclone/issues/399) for more info).
+[#399](https://github.com/adbegon/rclone/issues/399) for more info).
 
 ### -I, --ignore-times ###
 

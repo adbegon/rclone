@@ -3,8 +3,8 @@ package obscure
 import (
 	"fmt"
 
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs/config/obscure"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs/config/obscure"
 	"github.com/spf13/cobra"
 )
 

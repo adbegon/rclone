@@ -9,9 +9,9 @@ import (
 
 	"bazil.org/fuse"
 	fusefs "bazil.org/fuse/fs"
-	"github.com/artpar/rclone/cmd/mount"
-	"github.com/artpar/rclone/cmd/mountlib"
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/cmd/mount"
+	"github.com/adbegon/rclone/cmd/mountlib"
+	"github.com/adbegon/rclone/fs"
 	"github.com/stretchr/testify/require"
 )
 

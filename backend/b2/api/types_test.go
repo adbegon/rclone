@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/backend/b2/api"
-	"github.com/artpar/rclone/fstest"
+	"github.com/adbegon/rclone/backend/b2/api"
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

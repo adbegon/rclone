@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/artpar/rclone/backend/crypt"
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config/flags"
+	"github.com/adbegon/rclone/backend/crypt"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config/flags"
 	"github.com/spf13/cobra"
 )
 

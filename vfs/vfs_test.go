@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/artpar/rclone/backend/all" // import all the backends
-	"github.com/artpar/rclone/fstest"
+	_ "github.com/adbegon/rclone/backend/all" // import all the backends
+	"github.com/adbegon/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -8,13 +8,13 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/accounting"
-	"github.com/artpar/rclone/fs/filter"
-	"github.com/artpar/rclone/fs/fserrors"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/fs/march"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/accounting"
+	"github.com/adbegon/rclone/fs/filter"
+	"github.com/adbegon/rclone/fs/fserrors"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs/march"
+	"github.com/adbegon/rclone/fs/operations"
 	"github.com/pkg/errors"
 )
 

@@ -4,10 +4,10 @@
 package main
 
 import (
-	"github.com/artpar/rclone/cmd"
+	"github.com/adbegon/rclone/cmd"
 
-	_ "github.com/artpar/rclone/backend/all" // import all backends
-	_ "github.com/artpar/rclone/cmd/all"     // import all commands
+	_ "github.com/adbegon/rclone/backend/all" // import all backends
+	_ "github.com/adbegon/rclone/cmd/all"     // import all commands
 )
 
 func main() {

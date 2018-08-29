@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/fs/object"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs/object"
 	"github.com/stretchr/testify/assert"
 )
 

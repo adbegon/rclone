@@ -7,13 +7,13 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/cmd/serve/httplib"
-	"github.com/artpar/rclone/cmd/serve/httplib/httpflags"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/vfs"
-	"github.com/artpar/rclone/vfs/vfsflags"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/cmd/serve/httplib"
+	"github.com/adbegon/rclone/cmd/serve/httplib/httpflags"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/vfs"
+	"github.com/adbegon/rclone/vfs/vfsflags"
 	"github.com/spf13/cobra"
 	"golang.org/x/net/context" // switch to "context" when we stop supporting go1.8
 

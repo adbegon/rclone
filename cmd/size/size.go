@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/artpar/rclone/cmd"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/cmd"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/operations"
 	"github.com/spf13/cobra"
 )
 

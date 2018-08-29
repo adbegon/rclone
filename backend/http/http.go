@@ -13,12 +13,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config/configmap"
-	"github.com/artpar/rclone/fs/config/configstruct"
-	"github.com/artpar/rclone/fs/fshttp"
-	"github.com/artpar/rclone/fs/hash"
-	"github.com/artpar/rclone/lib/rest"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config/configmap"
+	"github.com/adbegon/rclone/fs/config/configstruct"
+	"github.com/adbegon/rclone/fs/fshttp"
+	"github.com/adbegon/rclone/fs/hash"
+	"github.com/adbegon/rclone/lib/rest"
 	"github.com/pkg/errors"
 	"golang.org/x/net/html"
 )

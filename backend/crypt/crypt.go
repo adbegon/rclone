@@ -8,11 +8,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config/configmap"
-	"github.com/artpar/rclone/fs/config/configstruct"
-	"github.com/artpar/rclone/fs/config/obscure"
-	"github.com/artpar/rclone/fs/hash"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config/configmap"
+	"github.com/adbegon/rclone/fs/config/configstruct"
+	"github.com/adbegon/rclone/fs/config/obscure"
+	"github.com/adbegon/rclone/fs/hash"
 	"github.com/pkg/errors"
 )
 

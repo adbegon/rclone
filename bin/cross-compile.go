@@ -179,7 +179,7 @@ func compileArch(version, goos, goarch, dir string) bool {
 	}
 	args := []string{
 		"go", "build",
-		"--ldflags", "-s -X github.com/artpar/rclone/fs.Version=" + version,
+		"--ldflags", "-s -X github.com/adbegon/rclone/fs.Version=" + version,
 		"-i",
 		"-o", output,
 		"-tags", *tags,

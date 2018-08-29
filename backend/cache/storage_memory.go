@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/artpar/rclone/fs"
+	"github.com/adbegon/rclone/fs"
 	"github.com/patrickmn/go-cache"
 	"github.com/pkg/errors"
 )

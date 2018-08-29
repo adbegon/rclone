@@ -13,10 +13,10 @@ import (
 	"time"
 
 	"github.com/billziss-gh/cgofuse/fuse"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/log"
-	"github.com/artpar/rclone/vfs"
-	"github.com/artpar/rclone/vfs/vfsflags"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/log"
+	"github.com/adbegon/rclone/vfs"
+	"github.com/adbegon/rclone/vfs/vfsflags"
 	"github.com/pkg/errors"
 )
 

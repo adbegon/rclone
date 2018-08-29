@@ -12,11 +12,11 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/artpar/rclone/backend/local"
-	"github.com/artpar/rclone/cmd/serve/httplib"
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/config"
-	"github.com/artpar/rclone/fs/filter"
+	_ "github.com/adbegon/rclone/backend/local"
+	"github.com/adbegon/rclone/cmd/serve/httplib"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/config"
+	"github.com/adbegon/rclone/fs/filter"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

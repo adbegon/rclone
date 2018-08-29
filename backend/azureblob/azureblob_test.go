@@ -7,8 +7,8 @@ package azureblob_test
 import (
 	"testing"
 
-	"github.com/artpar/rclone/backend/azureblob"
-	"github.com/artpar/rclone/fstest/fstests"
+	"github.com/adbegon/rclone/backend/azureblob"
+	"github.com/adbegon/rclone/fstest/fstests"
 )
 
 // TestIntegration runs integration tests against the remote

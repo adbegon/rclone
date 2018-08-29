@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/filter"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/filter"
 	"github.com/pkg/errors"
 )
 

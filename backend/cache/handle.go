@@ -12,8 +12,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/artpar/rclone/fs"
-	"github.com/artpar/rclone/fs/operations"
+	"github.com/adbegon/rclone/fs"
+	"github.com/adbegon/rclone/fs/operations"
 	"github.com/pkg/errors"
 )
 
